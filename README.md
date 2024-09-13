@@ -1,5 +1,5 @@
 #  Residency Booking Analysis : Exploratory Data Analysis
-![Hotel](https://github.com/user-attachments/assets/7e9a3ba5-cde6-4375-a5d5-49e8b632102f)
+![Hotel](https://github.com/user-attachments/assets/b4b7b0d0-63f8-4bcc-af8b-3cabd7bb47b2)
 
 # Objective:-
 We are provided with hotel booking dataset. Our main goal is to perform EDA and draw useful conclusion about general trends in hotel bookings.
