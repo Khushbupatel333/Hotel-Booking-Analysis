@@ -1,4 +1,4 @@
-#  Residency Booking Analysis : Exploratory Data Analysis
+#  Taj Residency Booking Analysis : Exploratory Data Analysis
 ![Hotel](https://github.com/user-attachments/assets/b4b7b0d0-63f8-4bcc-af8b-3cabd7bb47b2)
 
 # Objective:-
